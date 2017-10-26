@@ -457,7 +457,7 @@ uint8_t *ecrt_domain_data(ec_domain_t *domain)
 
 
 
-#include "linux/timekeeping.h"
+//#include "linux/timekeeping.h"
 
 #define MAX_STIMERS	50
 #define NSEC_PER_SEC	1000000000L
